@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJyAHx.jpg",
+      "title": "standoff tips 1",
+        "text_Content": "In situations where there is a threat of violence or harm, a standoff can occur between law enforcement officers and the individual(s) involved. Standoffs are tense and stressful situations, and they require careful management to ensure the safety of everyone involved. In this article, we will discuss some tips and best practices for managing a standoff.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJyTSj.jpg",
+      "title": "standoff tips 2",
+        "text_Content": "The first step in managing a standoff is to establish communication with the individual(s) involved. This can be done through a variety of means, including loudspeakers, cell phones, or negotiators. The goal of communication is to establish a dialogue and build a rapport with the individual(s) to encourage them to surrender peacefully. Law enforcement officers should remain calm, patient, and empathetic while communicating with the individual(s).",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJyIcb.jpg",
+      "title": "standoff tips 3",
+        "text_Content": "Active listening is an essential skill in managing a standoff. It involves listening carefully to what the individual(s) is saying and responding appropriately. Officers should avoid interrupting or arguing with the individual(s) and instead focus on understanding their perspective. This can help build trust and rapport and may lead to a peaceful resolution.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJyzKu.jpg",
+      "title": "standoff tips 4",
+        "text_Content": "Before entering into a standoff situation, law enforcement officers should develop a plan. The plan should include goals, strategies, and tactics for managing the standoff. The plan should also consider potential risks and the safety of all parties involved. A well-developed plan can help officers remain focused and make better decisions during a high-stress situation.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJyRAQ.jpg",
+      "title": "standoff tips 5",
+        "text_Content": "The surroundings of the standoff can also play a significant role in managing the situation. Officers should take into account the location, time of day, and any potential hazards. They should also be aware of any weapons or other dangerous items that may be present. Officers may need to evacuate nearby buildings or establish a perimeter to prevent the individual(s) from leaving the area.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJy5NV.jpg",
+      "title": "standoff tips 6",
+        "text_Content": "De-escalation techniques are essential in managing standoffs. These techniques involve using verbal communication and body language to reduce tension and encourage cooperation. Some common de-escalation techniques include active listening, empathizing with the individual(s), and using a calm and assertive tone of voice. Officers should also avoid making threats or using force unless absolutely necessary.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HVJy7DB.jpg",
+      "title": "standoff tips 7",
+        "text_Content": "A negotiator can be a valuable asset in managing a standoff. Negotiators are trained to establish a rapport with the individual(s) and use active listening and de-escalation techniques to encourage cooperation. They can also help to bridge communication gaps and negotiate a peaceful resolution. Having a negotiator on the scene can help to reduce tension and improve the chances of a successful outcome.",
+        "text_Content_1": ""
 
 
 
